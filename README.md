@@ -1,4 +1,4 @@
-# Hi there, I'm Aleksandr Shapovalov 👋
+# Hi there, I'm Alex 👋
 
 I'm an iOS Developer from Naples, Italy.
 
