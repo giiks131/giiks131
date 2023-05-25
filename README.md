@@ -22,6 +22,6 @@ I'm an iOS Developer from Naples, Italy.
 - **Twitter App** – A simplified Twitter clone focusing on essential functionalities.
 - ..and some more :)
 
-For more details about these and other projects, visit my [GitHub Repositories](https://github.com/giiks131?tab=repositories).
+For more details about these and other projects, visit my [GitHub Repositories](https://github.com/giiks131?tab=repositories) and **Pin** section.
 
 ---
