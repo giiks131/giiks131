@@ -10,8 +10,6 @@ I'm an iOS Developer from Naples, Italy.
 - [Email](mailto:giiks131@gmail.com)
 - [LinkedIn](https://linkedin.com/in/giik)
 
-⚡ Fun fact: I once managed to supervise more than 50 webinars at the same time!
-
 ---
 
 ### Some of my projects:
