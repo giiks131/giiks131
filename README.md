@@ -1,13 +1,9 @@
 # Hi there, I'm Alex 👋
 
-I'm an iOS Developer from Naples, Italy.
-
 🔭 I have experience in SwiftUI, UIKit, Vapor, CoreData, Combine, Concurrency, REST API, AVFoundation, ARKit, RealityKit, SceneKit, MapKit, Localisation, Keychain, CocoaPods, SPM, Git and more.
 
-🌱 I'm fluent in English and Russian, and a beginner in German.
-
 📫 How to reach me: 
-- [Email](mailto:giiks131@gmail.com)
+- [Email](mailto:giiksdev@gmail.com)
 - [LinkedIn](https://linkedin.com/in/giik)
 
 ---
