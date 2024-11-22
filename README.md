@@ -5,6 +5,7 @@
 📫 How to reach me: 
 - [Email](mailto:giiksdev@gmail.com)
 - [LinkedIn](https://linkedin.com/in/giik)
+- [Telegram](https://t.me/thegiik)
 
 ---
 
